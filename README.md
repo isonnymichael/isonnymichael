@@ -22,16 +22,24 @@ I'm a fullstack developer from Indonesia. Starting from being a game developer, 
 
 ### Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=UbuntuS&logoColor=F90)
+![Nginx](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Git](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![GitLab](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Github](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Datadog](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Notion](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![MariaDB](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![Slim](https://img.shields.io/badge/-React-000?&logo=React)
+![Laravel](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Meedo](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Bootstrap](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![jQuery](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Vue](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Astro](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![React Native](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Unity](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Cocos](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=isonnymichael&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight&rank_icon=github" /><!-- wi*quL3fcV -->
 &nbsp;&nbsp;
