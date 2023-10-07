@@ -19,6 +19,7 @@ I'm a fullstack developer from Indonesia. Starting from being a game developer, 
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![C#](https://img.shields.io/badge/-CS-000?&logo=csharp)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 ### Technologies
 
@@ -32,6 +33,7 @@ I'm a fullstack developer from Indonesia. Starting from being a game developer, 
 ![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=mariadb)
 ![Slim](https://img.shields.io/badge/-Slim-000?&logo=packagist)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
+![Django](https://img.shields.io/badge/-Django-000?&logo=django)
 ![Medoo](https://img.shields.io/badge/-Medoo-000?&logo=mamp)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jquery)
