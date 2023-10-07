@@ -1,5 +1,4 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Sonny Michael</h1>
-<p>Love to learn something new and easy going</p>
 
 ### Languages
 
