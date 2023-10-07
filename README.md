@@ -9,7 +9,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![C#](https://img.shields.io/badge/-CS-000?&logo=csharp)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 
 ### Technologies
 
