@@ -19,7 +19,7 @@ I'm a fullstack developer from Indonesia. Starting from being a game developer, 
 [![Instagram Badge](https://img.shields.io/badge/-isonnymichael-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/isonnymichael/)](https://www.instagram.com/isonnymichael/) 
 </div>
 
-[![Twitter Badge](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/6288216796221)](https://wa.me/6288216796221) 
+[![Twitter Badge](https://img.shields.io/badge/-isonnymichael-000000?style=flat-square&logo=X&logoColor=white&link=https://twitter.com/isonnymichael)](https://twitter.com/isonnymichael) 
 </div>
 
 ### Languages
