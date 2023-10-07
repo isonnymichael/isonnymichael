@@ -6,7 +6,7 @@ I'm a fullstack developer from Indonesia. Starting from being a game developer, 
 
 <div align="center">
   
-[![Linkedin Badge](https://img.shields.io/badge/-isonnymichael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonny-michael-95723512a/)](https://www.linkedin.com/in/sonny-michael-95723512a/) [![Gmail Badge](https://img.shields.io/badge/-isonnymichael@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isonnymichael@gmail.com)](mailto:isonnymichael@gmail.com)  [![WA Badge](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/6288216796221)](https://wa.me/6288216796221)  [![Facebook Badge](https://img.shields.io/badge/-isonnymichael-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/iSonnyMichael/)](https://www.facebook.com/iSonnyMichael/) [![Instagram Badge](https://img.shields.io/badge/-isonnymichael-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/isonnymichael/)](https://www.instagram.com/isonnymichael/) [![Twitter Badge](https://img.shields.io/badge/-isonnymichael-000000?style=flat-square&logo=X&logoColor=white&link=https://twitter.com/isonnymichael)](https://twitter.com/isonnymichael) 
+[![Linkedin Badge](https://img.shields.io/badge/-isonnymichael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonny-michael-95723512a/)](https://www.linkedin.com/in/sonny-michael-95723512a/) [![Gmail Badge](https://img.shields.io/badge/-isonnymichael@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isonnymichael@gmail.com)](mailto:isonnymichael@gmail.com)  [![WA Badge](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/6288216796221)](https://wa.me/6288216796221)  [![Facebook Badge](https://img.shields.io/badge/-isonnymichael-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/iSonnyMichael/)](https://www.facebook.com/iSonnyMichael/) [![Instagram Badge](https://img.shields.io/badge/-isonnymichael-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/isonnymichael/)](https://www.instagram.com/isonnymichael/) [![Twitter Badge](https://img.shields.io/badge/-isonnymichael-000000?style=flat-square&logo=X&logoColor=white&link=https://twitter.com/isonnymichael)](https://twitter.com/isonnymichael) [![Blog Badge](https://img.shields.io/badge/-jadiprogrammer.com-000000?style=flat-square&logo=wordpress&logoColor=white&link=https://www.jadiprogrammer.com/)](https://www.jadiprogrammer.com/)
 </div>
 
 ### Languages
@@ -34,6 +34,7 @@ I'm a fullstack developer from Indonesia. Starting from being a game developer, 
 ![Slim](https://img.shields.io/badge/-Slim-000?&logo=packagist)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=django)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Medoo](https://img.shields.io/badge/-Medoo-000?&logo=mamp)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jquery)
