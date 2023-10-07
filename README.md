@@ -1,7 +1,7 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Sonny Michael</h1>
 
 <p align="center">
-I'm a fullstack developer from Indonesia. Starting from being a game developer, now I mostly work on website projects. Love to learn something new and easy going. I regulary write articles on my own website. 
+I'm a fullstack developer from Indonesia. Starting from being a game developer, now I mostly work on website projects. Love to learn something new and easy going. Sometimes I write articles on my own website. 
 </p>
 
 <div align="center">
