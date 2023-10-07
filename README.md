@@ -10,7 +10,7 @@ I'm a fullstack developer from Indonesia. Starting from being a game developer, 
 
 [![Gmail Badge](https://img.shields.io/badge/-isonnymichael@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isonnymichael@gmail.com)](mailto:isonnymichael@gmail.com) 
 
-[![WA Badge](https://img.shields.io/badge/-WA-000?style=flat-square&logo=WhatsApp&logoColor=white&link=mailto:isonnymichael@gmail.com)](mailto:isonnymichael@gmail.com) 
+[![WA Badge](https://img.shields.io/badge/-WA-25d366?style=flat-square&logo=WhatsApp&logoColor=white&link=mailto:isonnymichael@gmail.com)](mailto:isonnymichael@gmail.com) 
 </div>
 
 ### Languages
