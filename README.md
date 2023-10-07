@@ -22,7 +22,7 @@ I'm a fullstack developer from Indonesia. Starting from being a game developer, 
 
 ### Technologies
 
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=UbuntuS&logoColor=F90)
+![Ubuntu](https://img.shields.io/badge/-ubuntu-000?&logo=ubuntu)
 ![Nginx](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Git](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![GitLab](https://img.shields.io/badge/-Linux-000?&logo=Linux)
