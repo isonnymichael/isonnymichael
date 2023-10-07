@@ -6,10 +6,7 @@ I'm a fullstack developer from Indonesia. Starting from being a game developer, 
 
 <div align="center">
   
-[![Linkedin Badge](https://img.shields.io/badge/-isonnymichael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonny-michael-95723512a/)](https://www.linkedin.com/in/sonny-michael-95723512a/)
-[![Medium Badge](https://img.shields.io/badge/-@syrashid-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@syrashid/)](https://syrashid.medium.com)
-[![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sy@mangotree.dev)](mailto:sy@mangotree.dev)
-[![Behance Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&label&logo=Behance&link=https://www.behance.net/syrashid)](https://www.behance.net/syrashid)
+[![Linkedin Badge](https://img.shields.io/badge/-isonnymichael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sonny-michael-95723512a/)](https://www.linkedin.com/in/sonny-michael-95723512a/) [![Medium Badge](https://img.shields.io/badge/-@syrashid-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@syrashid/)](https://syrashid.medium.com) [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sy@mangotree.dev)](mailto:sy@mangotree.dev) [![Behance Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&label&logo=Behance&link=https://www.behance.net/syrashid)](https://www.behance.net/syrashid)
 </div>
 
 ### Languages
