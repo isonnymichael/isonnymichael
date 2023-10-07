@@ -13,6 +13,15 @@ I'm a fullstack developer from Indonesia. Starting from being a game developer, 
 [![WA Badge](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/6288216796221)](https://wa.me/6288216796221) 
 </div>
 
+[![Facebook Badge](https://img.shields.io/badge/-isonnymichael-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/iSonnyMichael/)](https://www.facebook.com/iSonnyMichael/) 
+</div>
+
+[![Instagram Badge](https://img.shields.io/badge/-isonnymichael-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/isonnymichael/)](https://www.instagram.com/isonnymichael/) 
+</div>
+
+[![Twitter Badge](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/6288216796221)](https://wa.me/6288216796221) 
+</div>
+
 ### Languages
 
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
