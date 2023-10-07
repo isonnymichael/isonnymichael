@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Sonny Michael</h1>
 
 ### Languages
 
