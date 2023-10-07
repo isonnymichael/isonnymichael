@@ -43,6 +43,7 @@ I'm a fullstack developer from Indonesia. Starting from being a game developer, 
 ![React Native](https://img.shields.io/badge/-ReactNative-000?&logo=react)
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity)
 ![Cocos](https://img.shields.io/badge/-Cocos-000?&logo=cocos)
+![Android](https://img.shields.io/badge/-Android-000?&logo=android)
 
 <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=isonnymichael&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight&rank_icon=github" /><!-- wi*quL3fcV -->
 &nbsp;&nbsp;
