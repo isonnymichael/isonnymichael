@@ -62,7 +62,7 @@ I'm a fullstack developer from Indonesia. Starting from being a game developer, 
 ![Thirdweb](https://img.shields.io/badge/-Thirdweb%20SDK-000?&logo=three.js&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-000?&logo=ethereum)
 
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=isonnymichael&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight&rank_icon=github" /><!-- wi*quL3fcV -->
+<a href="https://github.com/isonnymichael?tab=repositories"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=isonnymichael&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight&rank_icon=github" /><!-- wi*quL3fcV -->
 &nbsp;&nbsp;
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isonnymichael&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&icon_color=fff&theme=tokyonight" /></a>
 
