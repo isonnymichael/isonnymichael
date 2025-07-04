@@ -9,7 +9,7 @@ I'm a fullstack developer from Indonesia. Starting from being a game developer, 
 [![Linkedin Badge](https://img.shields.io/badge/-isonnymichael-blue?style=flat-square&logo=linksys&logoColor=white&link=https://www.linkedin.com/in/sonny-michael-95723512a/)](https://www.linkedin.com/in/sonny-michael-95723512a/) [![Gmail Badge](https://img.shields.io/badge/-isonnymichael@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isonnymichael@gmail.com)](mailto:isonnymichael@gmail.com) <!-- [![WA Badge](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/6288216796221)](https://wa.me/6288216796221) -->  [![Facebook Badge](https://img.shields.io/badge/-isonnymichael-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/iSonnyMichael/)](https://www.facebook.com/iSonnyMichael/) [![Instagram Badge](https://img.shields.io/badge/-isonnymichael-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/isonnymichael/)](https://www.instagram.com/isonnymichael/) [![Twitter Badge](https://img.shields.io/badge/-isonnymichael-000000?style=flat-square&logo=X&logoColor=white&link=https://twitter.com/isonnymichael)](https://twitter.com/isonnymichael)
 </div>
 
-### Languages
+### 🧠 Languages
 
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
@@ -23,7 +23,7 @@ I'm a fullstack developer from Indonesia. Starting from being a game developer, 
 ![Go](https://img.shields.io/badge/-Go-000?&logo=go)
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 
-### Technologies
+### 🧰 Technologies
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)
 ![Nginx](https://img.shields.io/badge/-NGINX-000?&logo=nginx)
@@ -62,7 +62,28 @@ I'm a fullstack developer from Indonesia. Starting from being a game developer, 
 ![Thirdweb](https://img.shields.io/badge/-Thirdweb%20SDK-000?&logo=three.js&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-000?&logo=ethereum)
 
-<a href="https://github.com/isonnymichael?tab=repositories"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=isonnymichael&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight&rank_icon=github" /><!-- wi*quL3fcV -->
-&nbsp;&nbsp;
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isonnymichael&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&icon_color=fff&theme=tokyonight" /></a>
+### 📊 Status
+
+<div align="center">
+  <a href="https://github.com/isonnymichael?tab=repositories">
+    <img src="https://streak-stats.demolab.com?user=isonnymichael&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+
+  <a href="https://github.com/isonnymichael?tab=repositories">
+    <img src="https://github-profile-trophy.vercel.app/?username=isonnymichael&theme=tokyonight&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Trophy" />
+  </a>
+
+  <a href="https://github.com/isonnymichael?tab=repositories">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=isonnymichael&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight&rank_icon=github" />
+  </a>
+
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isonnymichael&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&icon_color=fff&theme=tokyonight" />
+</div>
+
+### 🤝 Let's Collaborate
+
+I'm always open to contributing to open-source projects, especially in Web3, frontend tools, or developer experience. Feel free to reach out if you have something exciting!
+
+[![Buy Me a Coffee](https://img.shields.io/badge/☕️-Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/isonnymichael)
+![ETH Wallet](https://img.shields.io/badge/ETH-0x2B36425Aa21B034045876853DaA93f82f1357116-3c3c3d?style=flat-square&logo=ethereum&logoColor=white)
 
