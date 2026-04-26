@@ -65,15 +65,38 @@ I'm a fullstack developer from Indonesia. Starting from being a game developer, 
 ### 📊 Status
 
 <div align="center">
+
+  <!-- Row 1 -->
   <a href="https://github.com/isonnymichael?tab=repositories">
-    <img src="https://streak-stats.demolab.com?user=isonnymichael&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=isonnymichael&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=percentile" />
   </a>
 
   <a href="https://github.com/isonnymichael?tab=repositories">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=isonnymichael&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight&rank_icon=percentile" />
+    <img height="150px" src="https://streak-stats.demolab.com?user=isonnymichael&theme=tokyonight&hide_border=true" />
   </a>
 
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isonnymichael&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&icon_color=fff&theme=tokyonight" />
+</div>
+
+<div align="center">
+
+  <!-- Row 2 -->
+  <a href="https://github.com/isonnymichael?tab=repositories">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isonnymichael&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  </a>
+
+  <a href="https://github.com/isonnymichael">
+    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=isonnymichael&theme=tokyonight&no-frame=true&row=1&column=4" />
+  </a>
+
+</div>
+
+<div align="center">
+
+  <!-- Activity Graph -->
+  <a href="https://github.com/isonnymichael">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=isonnymichael&theme=tokyo-night&hide_border=true" />
+  </a>
+
 </div>
 
 ### 🤝 Let's Collaborate
