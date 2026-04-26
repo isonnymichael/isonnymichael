@@ -85,7 +85,7 @@ I'm a fullstack developer from Indonesia. Starting from being a game developer, 
   </a>
 
   <a href="https://github.com/isonnymichael">
-    <img height="150px" src="https://github-contributor-stats.vercel.app/api?username=isonnymichael&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+    <img height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isonnymichael&theme=tokyonight" />
   </a>
 
 </div>
