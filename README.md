@@ -71,7 +71,7 @@ I'm a fullstack developer from Indonesia. Starting from being a game developer, 
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=isonnymichael&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=percentile" />
   </a>
 
-  <a href="https://github.com/isonnymichael?tab=repositories">
+  <a href="https://github.com/isonnymichael">
     <img height="150px" src="https://streak-stats.demolab.com?user=isonnymichael&theme=tokyonight&hide_border=true" />
   </a>
 
@@ -85,7 +85,7 @@ I'm a fullstack developer from Indonesia. Starting from being a game developer, 
   </a>
 
   <a href="https://github.com/isonnymichael">
-    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=isonnymichael&theme=tokyonight&no-frame=true&row=1&column=4" />
+    <img height="150px" src="https://github-contributor-stats.vercel.app/api?username=isonnymichael&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
   </a>
 
 </div>
