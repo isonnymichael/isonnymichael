@@ -70,10 +70,6 @@ I'm a fullstack developer from Indonesia. Starting from being a game developer, 
   </a>
 
   <a href="https://github.com/isonnymichael?tab=repositories">
-    <img src="https://github-profile-trophy.vercel.app/?username=isonnymichael&theme=tokyonight&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Trophy" />
-  </a>
-
-  <a href="https://github.com/isonnymichael?tab=repositories">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=isonnymichael&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight&rank_icon=percentile" />
   </a>
 
