@@ -21,7 +21,7 @@ I'm a fullstack developer from Indonesia. Starting from being a game developer, 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=go)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 
 ### 🧰 Technologies
